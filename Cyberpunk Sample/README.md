@@ -1,4 +1,5 @@
-#### Signatures are on their own layer, you may remove them if you wish.
+## Cyber HSV
+#### Sample project to demonstrate the HSV key, it depicts a woman with coloured cybernetic implants and a suit. <br>The signatures of the artists are on their own layer, you may remove them if you wish.
 <details>
   <summary>Preview</summary>
 
